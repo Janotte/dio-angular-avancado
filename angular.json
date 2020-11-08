@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dio-angular-avancado"
+    }
+  },
+  "defaultProject": "dio-angular-avancado",
+  "cli": {
+    "analytics": false
+  }
 }
